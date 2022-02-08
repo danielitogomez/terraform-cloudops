@@ -13,7 +13,7 @@ terraform apply
 # Notes
 Noticed that you maybe need AWS Sandbox or Cloud Account, in variables.tf there are comments how to set AWS credentials
 
-You can also use this online command:
+You can also use this oneline command:
 ```
 cd terraform-cloudops/infra/backend && rm -rf .terraform && terraform init && terraform plan && terraform apply -auto-approve
 ```
