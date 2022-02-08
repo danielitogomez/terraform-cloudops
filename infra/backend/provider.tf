@@ -19,8 +19,8 @@ provider "aws" {
   # }
   # export access_key=the_value
   # export secret_key=the_value
-  access_key = "AKIA5FGZPRQUCS4SWNDN"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 terraform {
